@@ -46,6 +46,9 @@ nvm use
 # open mobile folder
 cd mobile
 
+# create a .env file with key for api
+EXPO_PUBLIC_API_URL=http://YOUR_IP_MACHINE:3333
+
 # install dependecies
 yarn
 
